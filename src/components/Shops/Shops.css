@@ -1,0 +1,11 @@
+.shops-area {
+  background-color: #fffcfc;
+}
+.shops-wrapper {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  gap: 40px;
+}
+.products-container {
+  padding: 40px 0;
+}
