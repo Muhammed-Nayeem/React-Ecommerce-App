@@ -3,12 +3,11 @@
 }
 .order-wrapper {
   display: grid;
-  grid-template-columns: 4fr 1fr;
-  gap: 40px;
+  grid-template-columns: 2fr 1fr;
+  gap: 180px;
 }
 .order-products {
-  padding: 80px 0;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 35px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0;
 }

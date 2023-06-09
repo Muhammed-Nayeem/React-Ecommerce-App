@@ -17,3 +17,32 @@
   color: #333;
   margin-bottom: 5px;
 }
+.cart .clear-cart-btn {
+  width: 90%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  padding: 12px 15px;
+  background-color: #FF3030;
+  cursor: pointer;
+}
+.cart .link {
+  text-decoration: none;
+}
+.cart .link .btn {
+  width: 90%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  padding: 12px 15px;
+  background-color: #FF9900;
+  cursor: pointer;
+}
